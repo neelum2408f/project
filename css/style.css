@@ -3,7 +3,9 @@
     padding: 0px;
 }
 body{
-    background-image: url(..//img/img01.webp);
+    background-image: url(..//img/img01.jpg);
     background-repeat: no-repeat;
-    background-position: cover;
+    background-position: center ;
+    background-size: cover;
+    height: 100vh;
 }
